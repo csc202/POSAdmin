@@ -1,3 +1,4 @@
+package edu.nvcc.utils;
 
 public interface LinkedListInterface {
 	public void add(Object element);

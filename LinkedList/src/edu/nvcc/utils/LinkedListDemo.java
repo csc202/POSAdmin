@@ -1,4 +1,4 @@
-import edu.nvcc.utils.LinkedList;
+package edu.nvcc.utils;
 
 public class LinkedListDemo {
 

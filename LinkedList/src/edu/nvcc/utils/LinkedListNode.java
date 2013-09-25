@@ -1,3 +1,4 @@
+package edu.nvcc.utils;
 
 public class LinkedListNode {
 	Object element;
